@@ -63,7 +63,9 @@
     git commit
 
 
-![Описание картинки](https://github.com/zontz/advanced-git/blob/85f71a52e913fed3612dba02039f82257d22c2a5/screenshots/1_PtbECo8DeSwfFcWTCmxkqg.jpg?raw=true)
+
+![GitFlow](https://github.com/zontz/advanced-git/blob/85f71a52e913fed3612dba02039f82257d22c2a5/screenshots/1_PtbECo8DeSwfFcWTCmxkqg.jpg?raw=true)
+![GithubFlow]([https://github.com/zontz/advanced-git/blob/85f71a52e913fed3612dba02039f82257d22c2a5/screenshots/1_PtbECo8DeSwfFcWTCmxkqg.jpg?raw=true](https://github.com/zontz/advanced-git/blob/df4408e4db690e56e6bbfe5b43b24824c1dc6ef0/screenshots/1_bFl2IXVT2xIRy8uOm7v4JA.webp))
 
 
 
