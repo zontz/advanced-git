@@ -50,7 +50,20 @@
 
   #### 2️⃣ вернулся в ветку main
 
-  #### 3️⃣ сделал коммит в main
-    ```swift
+  #### 3️⃣ сделал коммит в main с изменением:
     Text("Hello, world! v1")
+
+  #### 4️⃣ вернулся в ветку feature/conflict-training и сделал коммит с изменением:
+    Text("Hello, world! v2")
+
+  #### 5️⃣ вернулся в ветку main и сделал merge:
+    ```bash
+    git merge feature/conflict-training
+  
+  #### 6️⃣ решил конфликт в ручную и сделал коммит:
+    ```bash
+    git commit
+
+
+
 
