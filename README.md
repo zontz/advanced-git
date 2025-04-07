@@ -63,9 +63,21 @@
     git commit
 
 
+## Визуальные диаграммы ветвлений
+
+### GitFlow
 
 ![GitFlow](https://github.com/zontz/advanced-git/blob/85f71a52e913fed3612dba02039f82257d22c2a5/screenshots/1_PtbECo8DeSwfFcWTCmxkqg.jpg?raw=true)
-![GithubFlow](https://github.com/zontz/advanced-git/blob/774518c195526564df1b06163a4923598501ce84/screenshots/branchstrategy-releaseflow.png)
+
+### GithubFlow
+
+![GithubFlow](https://github.com/zontz/advanced-git/blob/45308b880b4c1a68459e64c20ff31b3d95d8dc35/screenshots/g.png)
+
+### ReleaseFlow
+
+![ReleaseFlow](https://github.com/zontz/advanced-git/blob/774518c195526564df1b06163a4923598501ce84/screenshots/branchstrategy-releaseflow.png)
+
+
 
 
 
