@@ -57,11 +57,9 @@
     Text("Hello, world! v2")
 
   #### 5️⃣ вернулся в ветку main и сделал merge:
-    ```bash
     git merge feature/conflict-training
   
   #### 6️⃣ решил конфликт в ручную и сделал коммит:
-    ```bash
     git commit
 
 
