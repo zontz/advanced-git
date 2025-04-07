@@ -120,7 +120,7 @@
 
 > Подходит для: high-speed разработки, DevOps, небольших команд.
 
-![Trunk-Based](https://github.com/zontz/advanced-git/blob/ba8388f1fea6bc0bf59bfaa8ec34aa5e6a1f9105/screenshots/tbd_workflow.drawio-1-1.png)
+![Trunk-Based](https://github.com/zontz/advanced-git/blob/16ff89836dc4acdc3427c7eccac4dc97673235c9/screenshots/images.png)
 
 
 
