@@ -39,34 +39,8 @@
 
 - 🔹 **Применить один коммит по его hash:**
   ```bash
-  git cherry-pick <commit-hash>
-Пример:
+  git cherry-pick a1b2c3d
 
-bash
-Copy
-Edit
-git cherry-pick a1b2c3d
-🔹 Применить несколько коммитов (диапазон):
-
-bash
-Copy
-Edit
-git cherry-pick <start-commit>^..<end-commit>
-Пример:
-
-bash
-Copy
-Edit
-git cherry-pick a1b2c3d^..d4e5f6g
-🔹 Прервать cherry-pick (например, если возник конфликт или ты передумал):
-
-bash
-Copy
-Edit
-git cherry-pick --abort
-🔹 Продолжить cherry-pick после разрешения конфликта:
-
-bash
-Copy
-Edit
-git cherry-pick --continue
+- 🔹 **Применить несколько коммитов (диапазон):**
+  ```bash
+  git cherry-pick a1b2c3d^..d4e5f6g
