@@ -186,7 +186,7 @@ git commit
 ### 🌱 Trunk-Based Development
 
 <div align="center">
-  <img src="https://github.com/zontz/advanced-git/blob/ba8388f1fea6bc0bf59bfaa8ec34aa5e6a1f9105/screenshots/tbd_workflow.drawio-1-1.png" alt="Trunk-Based" width="600"/>
+  <img src="https://github.com/zontz/advanced-git/blob/16ff89836dc4acdc3427c7eccac4dc97673235c9/screenshots/images.png" alt="Trunk-Based" width="600"/>
 </div>
 
 Минималистичная и гибкая модель, в которой вся разработка вращается вокруг одной ветки (`main` или `trunk`).
@@ -206,7 +206,6 @@ git commit
     <a href="https://github.com/zontz/advanced-git">🌟 Репозиторий проекта</a>
   </p>
 </div>
-
 
 
 
